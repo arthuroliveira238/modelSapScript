@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Repasse SAP Script
 
 Script para automação de processos SAP usando Python.
@@ -41,3 +42,6 @@ deactivate
 - Python 3.7+
 - SAP Logon instalado
 - Windows (para win32com)
+=======
+# modelSapScript
+>>>>>>> fd031d5ecce61cf9512795189d2dc5089bbdea74
